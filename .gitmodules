@@ -1,0 +1,3 @@
+[submodule "py-fhir-client"]
+	path = py-fhir-client
+	url = git@github.com:jbonzohln/py-fhir-client.git
